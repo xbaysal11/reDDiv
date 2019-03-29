@@ -1,5 +1,4 @@
-# reDDiv
-Google Chrome Extension for highlighting divs
+
 <p align="center">
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Denison_athletics_logo.png" alt="logo" width="72" height="72">
 </p>
@@ -10,9 +9,6 @@ Google Chrome Extension for highlighting divs
      Google Chrome Extension for highlighting divs 
 </p>
 
-<p align="center">
-    <img src="https://onaircode.com/wp-content/uploads/2017/11/Stylish-Social-Buttons.jpg" alt="logo" width="450" height="230">
-</p>
 
 # Installation
 
