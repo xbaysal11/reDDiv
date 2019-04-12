@@ -12,17 +12,19 @@
 
 # Installation
 
-## 1. Download files
+## 1. Download archive
 [Click to Download](https://github.com/xbaysal11/reDDiv/archive/master.zip) 
 
-## 2. Connect with Google Chrome
+## 2. Unzip files
+
+## 3. Connect with Google Chrome
 Steps:
    - 1.Go to Google Chrome Menu.
    - 2.Go to More tools.
    - 3.Go to Extensions.
    - 4.Turn ON "Develpor mode".
    - 5.Load unpacked
-   - 6.Choose downloaded package
+   - 6.Choose unzipped package
    - 7.Turn ON "reDDiv" extension
     
 
