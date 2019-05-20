@@ -9,6 +9,7 @@
      Google Chrome Extension for highlighting divs 
 </p>
 
+![logo](https://i.postimg.cc/mkT1JD1F/reddiv.png)
 
 # Installation
 
